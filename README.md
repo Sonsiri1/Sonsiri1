@@ -1,6 +1,6 @@
 <div align="center">
 
-# สวัสดี 👋 ฉันชื่อ NAME
+# สวัสดี 👋 ฉันชื่อ Sonsiri
 
 🎓 นักศึกษา / นักพัฒนา | 📍 Thailand  
 
